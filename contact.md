@@ -1,14 +1,9 @@
 ---
 layout: page
 title: Contact
-tagline: Create a contact form and you are good to go
+permalink: /contact.html
 ---
 
-Jekyll is a great tool to create static sites but with static site, there's no backend to send your data to: that is why it's hard to put a form on a Jekyll site.
+<iframe width="640px" height= "728px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR-FPWFwl1KpOg8bfPO9KODhURTY2RDNNTjUyVlU1TDBIVjlVMjVBMTYzMC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" scrolling="no" style= "border: none; max-width:100%" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
-Here listed some resources which provide  a saas service as a backend for forms (contact forms, hiring forms, etc.) to designers and developers like you:
-1. [Formspree (also open source, free)](https://formspree.io/)
-2. [FormKeep](https://formkeep.com/guides/contact-form-jekyll)
-3. [Simple Form](https://getsimpleform.com/)
-
-[Go to the Home Page](./)
+[Go to the Home Page](/)
