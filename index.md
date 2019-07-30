@@ -6,6 +6,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: Home
+permalink: /
 ---
 
 Welcome! For more information about the author, go to the [About Page](./about/). For everything else, see below.

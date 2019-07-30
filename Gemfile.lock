@@ -18,6 +18,7 @@ GEM
     concurrent-ruby (1.1.5)
     dnsruby (1.61.2)
       addressable (~> 2.5)
+    dotenv (2.7.4)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
@@ -250,8 +251,10 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  dotenv
   github-pages
   jekyll (~> 3.8, >= 3.8.5)
+  jekyll-github-metadata
   jekyll-target-blank
   jekyll-theme-cayman-blog
   tzinfo-data
