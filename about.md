@@ -6,7 +6,7 @@ permalink: /about/
 ---
 
 {:refdef: style="text-align: center;"}
-![useful image](/assets/about.jpg){:height="400px" width="400px"}
+![useful image](/assets/about.jpg){:style="width:100%;max-width:400px;height:auto;"}
 {: refdef}
 
 As you may have guessed by the title, I am a Software Engineer by trade, but I promise to keep the tech talk to a minimum. Work is only a small part of me, and that side of me has a plenty of time to express itself during the week; this blog will focus on the rest.
